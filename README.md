@@ -7,6 +7,6 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
 The code for this challenge can be found inside the folder static, in the folder js: logic.js.
 
-The objectiv eof this challenge was to create an Earthquake Visualisation using Leaflet, by plotting all the earthquakes from (https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson) based on their longitude and latitude.
+The objective of this challenge was to create an Earthquake Visualisation using Leaflet, by plotting all the earthquakes from (https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson) based on their longitude and latitude.
 
 The visualisation includes popups that provide additional information about each specific earthquake such as Location, Time, Magnitude and Depth.
